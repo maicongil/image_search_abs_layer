@@ -21,12 +21,12 @@ gulp.task('tdd', function() {
   return gulp.watch('test/*.js')
     .on('change', function(file) {
       gulp.src(file.path)
-        .pipe(mocha({ reporter: "nyan" }));
+        .pipe(mocha({ reporter: 'nyan' }));
     });
 });
 
 gulp.task('jshint', function() {
-  return gulp.src('test/*.js')
+  return gulp.src(['test/*.js', 'routes/*.js', 'models/*.js', 'lib/*.js'])
     .pipe(jshint())
     .pipe(jshint.reporter('jshint-stylish'));
 });

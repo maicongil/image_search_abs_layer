@@ -1,0 +1,1291 @@
+
+
+{
+  "_type": "Images",
+  "instrumentation": {
+    "pageLoadPingUrl": "https://www.bingapis.com/api/ping/pageload?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&Type=Event.CPT&DATA=0"
+  },
+  "readLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=javascript",
+  "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=9iQG3UIHzVf-sOV6hjEk85C7gLHKtwT4dO0EaZI52HQ&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3djavascript%26FORM%3dOIIARP&p=DevEx,5251.1",
+  "totalEstimatedMatches": 873,
+  "value": [
+    {
+      "name": "Simple Open Data Javascript Tutorial#EULife @AppChallenge",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=NSqzw65Hy5AW83wH6OrEbM59LizNJyHthK4bdm_gju4&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dAF653DC9828A8E7A66CE6060E48896F3876FDCF0%26simid%3d608049654003270648&p=DevEx,5006.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.ot7tWiPCYC01pV0kGmK3qQEsDI&pid=Api",
+      "datePublished": "2016-12-24T21:52:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=TaUJBDvIB_U9uPJjHaMfcXbtNd5vp07nmA2qr4gbjuc&v=1&r=http%3a%2f%2feulife.appchallenge.net%2fwp-content%2fuploads%2f2015%2f07%2fjavascript.png&p=DevEx,5008.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=i_qbUy_jnK8kZFXR4yQImrTsnu1aoyUqOEYytP47QoA&v=1&r=http%3a%2f%2feulife.appchallenge.net%2ftutorial-7-building-a-javascript-eulife-app%2f&p=DevEx,5007.1",
+      "contentSize": "391314 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "eulife.appchallenge.net/tutorial-7-building-a-<b>javascript</b>-eulife-app",
+      "width": 1800,
+      "height": 1200,
+      "thumbnail": {
+        "width": 300,
+        "height": 200
+      },
+      "imageInsightsToken": "ccid_ot7tWiPC*mid_AF653DC9828A8E7A66CE6060E48896F3876FDCF0*simid_608049654003270648",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "AF653DC9828A8E7A66CE6060E48896F3876FDCF0",
+      "accentColor": "B92812"
+    },
+    {
+      "name": "JavaScript community : “Agnostic” logo proposal – Work Wild Web ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=VseeWft95hTLWTjGhcsCTHSTmXBEpxk6nvDp1v9ujn0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d90C6388D6BC6A18DD8061B525F43A701FCECC5A4%26simid%3d608032250784975909&p=DevEx,5012.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.tMybbcdrzAbz2DZWcg695wEsEs&pid=Api",
+      "datePublished": "2012-04-13T20:34:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=XeQV-5vT1pAqH37gH_Ila8ZDxtxQL-jqoht0vruaUTI&v=1&r=http%3a%2f%2fwww.b2bweb.fr%2fwp-content%2fuploads%2fjs-logo-badge-512.png&p=DevEx,5014.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=HSEdMTcIeqJm2yEWEFWv5JkY43ZA-3Oph5KcpTglT88&v=1&r=http%3a%2f%2fwww.b2bweb.fr%2fmolokoloco%2fjavascript-community-agnostic-logo-proposal%2f&p=DevEx,5013.1",
+      "contentSize": "27495 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.b2bweb.fr/molokoloco/<b>javascript</b>-community-agnostic-logo-proposal",
+      "width": 512,
+      "height": 512,
+      "thumbnail": {
+        "width": 300,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_tMybbcdr*mid_90C6388D6BC6A18DD8061B525F43A701FCECC5A4*simid_608032250784975909",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "90C6388D6BC6A18DD8061B525F43A701FCECC5A4",
+      "accentColor": "B1971A"
+    },
+    {
+      "name": "Complete JavaScript Video Tutorials in Urdu &amp; Hindi Free - Urdu and ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=POlTj8iFku9mvLNZtQKWuV5AnVJ0_cGuipfZnf9Ga6A&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d1D8CD75B30AC14798D0A52F15BD8E994919D43DD%26simid%3d608049052702081471&p=DevEx,5018.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Nf3p4vIQIlNgKTVulchvqgEsEs&pid=Api",
+      "datePublished": "2016-10-28T11:25:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=NDvxdnHlsI7-5Xsehz67gq5wNoNVWf5Dfa03zOxxR8c&v=1&r=https%3a%2f%2f2.bp.blogspot.com%2f-1lsXAuaZ5Cs%2fVLi5g8nQTmI%2fAAAAAAAACEs%2fKZdJRzgVP9Q%2fs1600%2fjavascript-logo-png.png&p=DevEx,5020.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=qVQ606Q4_0Gfm-2k3eXp7jwpLSg6pH07eRLxGPnltVQ&v=1&r=http%3a%2f%2ftahirkhandawar.blogspot.com%2f2013%2f04%2fcomplete-javascript-video-tutorials-in.html&p=DevEx,5019.1",
+      "contentSize": "14945 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "tahirkhandawar.blogspot.com/2013/04/complete-<b>javascript</b>-video...",
+      "width": 833,
+      "height": 833,
+      "thumbnail": {
+        "width": 300,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_Nf3p4vIQ*mid_1D8CD75B30AC14798D0A52F15BD8E994919D43DD*simid_608049052702081471",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "1D8CD75B30AC14798D0A52F15BD8E994919D43DD",
+      "accentColor": "5E4B00"
+    },
+    {
+      "name": "Callbacks | Understanding JavaScript flow",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=tN7s61tsFa1recdsuqHvpn2KahiKwgLhD_FI-UBiYQc&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d8A163A0D37DAD8802B31C61FABF8508E51EAC0FC%26simid%3d607997517384319659&p=DevEx,5024.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Mcd684e19ffcf817d274532d92e61691ao0&pid=Api",
+      "datePublished": "2016-11-24T05:31:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=exPtTM6pOgdyQuZQBSK6nKxQocwKqRgbUsyWfWdxCUY&v=1&r=http%3a%2f%2fbrandontillman.com%2fwp-content%2fuploads%2f2016%2f03%2f35c738d7-bdf0-4f29-8408-84fbf86a7ae2.png&p=DevEx,5026.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=19zAm-x-7NlPkJfa1X8x-g6cAR2Q-5-ccjqk_E7WXEw&v=1&r=http%3a%2f%2fbrandontillman.com%2ftag%2fjavascript%2f&p=DevEx,5025.1",
+      "contentSize": "743393 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "brandontillman.com/tag/<b>javascript</b>",
+      "width": 1563,
+      "height": 879,
+      "thumbnail": {
+        "width": 300,
+        "height": 168
+      },
+      "imageInsightsToken": "ccid_zWhOGf/P*mid_8A163A0D37DAD8802B31C61FABF8508E51EAC0FC*simid_607997517384319659",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "8A163A0D37DAD8802B31C61FABF8508E51EAC0FC",
+      "accentColor": "CB8F00"
+    },
+    {
+      "name": "And then there is the issue of trademarking: JavaScript is a trademark ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Y29oYV9ay2M7f-fCPLJvQE6Lxc559TCAjRSIvlQgqtY&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dB679DC383CF7D72E291E6184DD76AEA5868D4866%26simid%3d607996289038748325&p=DevEx,5030.1",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.wF-Gv5GJep4Xszk9_zzJngEsEs&pid=Api",
+      "datePublished": "2011-10-13T02:47:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=WHqehv4TSlQWvCmwcFSMyc6l8asJMAyGZ2E238yCEL8&v=1&r=http%3a%2f%2f3.bp.blogspot.com%2f-PTty3CfTGnA%2fTpZOEjTQ_WI%2fAAAAAAAAAeo%2fKeKt_D5X2xo%2fs1600%2fjs.jpg&p=DevEx,5032.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Qu0HuAlcU7iAWHDuYrQtoNgkh5BvEXRbrPeY3nqdfBc&v=1&r=http%3a%2f%2fwww.2ality.com%2f2011%2f10%2flogo-js.html&p=DevEx,5031.1",
+      "contentSize": "38720 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.2ality.com/2011/10/logo-js.html",
+      "width": 1052,
+      "height": 1052,
+      "thumbnail": {
+        "width": 300,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_wF+Gv5GJ*mid_B679DC383CF7D72E291E6184DD76AEA5868D4866*simid_607996289038748325",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "B679DC383CF7D72E291E6184DD76AEA5868D4866",
+      "accentColor": "C2AA09"
+    },
+    {
+      "name": "Online JavaScript CourseMaster JavaScript in 4 Weeks",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Wl8nPvt_eD4IHmOotfKXiyntlyPW7QtihSs2jAZSYtg&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d92C6D1159B98F46F8D19F26FE7C80385F7F030DC%26simid%3d608020061669101214&p=DevEx,5036.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.M03d471c6a43c17a3496228b5b43512e6o0&pid=Api",
+      "datePublished": "2016-12-27T00:27:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=TYFWRa7IfAAPCLgCun_rm7suUCwcbz9SejDD5K8fjf4&v=1&r=https%3a%2f%2fwww.codementor.io%2fassets%2fpage_img%2flearn-javascript.png&p=DevEx,5038.1",
+      "hostPageUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=JRMe-BGVe1CUeVY-50IzDchAyJb2aopD4mOZYPssXps&v=1&r=https%3a%2f%2fwww.codementor.io%2flearn-javascript-online&p=DevEx,5037.1",
+      "contentSize": "17701 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://www.codementor.io/learn-<b>javascript</b>-online",
+      "width": 344,
+      "height": 390,
+      "thumbnail": {
+        "width": 264,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_A9RxxqQ8*mid_92C6D1159B98F46F8D19F26FE7C80385F7F030DC*simid_608020061669101214",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "92C6D1159B98F46F8D19F26FE7C80385F7F030DC",
+      "accentColor": "B59916"
+    },
+    {
+      "name": "JavaScript syntax and statements",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=xvZ7JSMyFG_t25Sn3BXgIlWcTb8HsN3AS2CRparWxYY&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dC3FED8E6E019A4F6948A58B084D22A92C1B43808%26simid%3d608005128079804708&p=DevEx,5042.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.zt111GyHQoUocgk1QmEd4QEsDl&pid=Api",
+      "datePublished": "2016-08-28T19:11:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=uvc2E0zDcUuPrC-bZ9yY5EihZRB_iUOjfHKbNSEPhlk&v=1&r=http%3a%2f%2fcsharpcorner.mindcrackerinc.netdna-cdn.com%2fUploadFile%2f47548d%2fintroduction-of-javascript%2fImages%2fJavaScript%2520Introduction.jpg&p=DevEx,5044.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=qGw5VpX7aAXH2pK8TnvZPvewJ2RfAXCfePy1-Ee2nA4&v=1&r=http%3a%2f%2fwww.c-sharpcorner.com%2fUploadFile%2f47548d%2fintroduction-of-javascript%2f&p=DevEx,5043.1",
+      "contentSize": "23334 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.c-sharpcorner.com/UploadFile/47548d/introduction-of-<b>javascript</b>",
+      "width": 650,
+      "height": 498,
+      "thumbnail": {
+        "width": 300,
+        "height": 229
+      },
+      "imageInsightsToken": "ccid_zt111GyH*mid_C3FED8E6E019A4F6948A58B084D22A92C1B43808*simid_608005128079804708",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "C3FED8E6E019A4F6948A58B084D22A92C1B43808",
+      "accentColor": "B75114"
+    },
+    {
+      "name": "Shortcut notations . One of the things I love most about JavaScript ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=9P80bFyOWLealmsRXaYy8MiyVZ-W5VgWPUK_pwxqpCc&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d2E4BD35A1344F2E555A39FB5AE2E91C9E7C37C54%26simid%3d608051148642453144&p=DevEx,5048.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.M961b6ba89c3ab3f0744c1e93d8766a13o0&pid=Api",
+      "datePublished": "2017-01-25T22:18:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=FxwqeyemtYLVRUg8oLMzqDl-sDKrosntsNmbNMdut6Q&v=1&r=https%3a%2f%2fwww.smashingmagazine.com%2fwp-content%2fuploads%2f2010%2f04%2fjavascript-code-snippet.gif&p=DevEx,5050.1",
+      "hostPageUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=2VGEMoFCCr5kJg8cOcxe3kOF9GxpfWEhzXztd6aQOxg&v=1&r=https%3a%2f%2fwww.smashingmagazine.com%2flearning-javascript-essentials-guidelines-tutorials%2f&p=DevEx,5049.1",
+      "contentSize": "35010 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "https://www.smashingmagazine.com/learning-<b>javascript</b>-essentials...",
+      "width": 500,
+      "height": 361,
+      "thumbnail": {
+        "width": 300,
+        "height": 216
+      },
+      "imageInsightsToken": "ccid_lhtrqJw6*mid_2E4BD35A1344F2E555A39FB5AE2E91C9E7C37C54*simid_608051148642453144",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "2E4BD35A1344F2E555A39FB5AE2E91C9E7C37C54",
+      "accentColor": "0203C9"
+    },
+    {
+      "name": "javascript ~ Pixel Clouds",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=kSdCBNIL4v0qKX8qy8P5cKz2p0XWvROd76ngWxsOpJA&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d7C8CA9EACBE61C5CF0506D775032353C7C608AF1%26simid%3d608043593808350376&p=DevEx,5054.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.M6c00fe45854fb2452d580a2b6a5fee4co0&pid=Api",
+      "datePublished": "2016-12-03T15:14:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=0S8KACMP52G-_PymaPL442v7uwKjFLW1ru-N2h0T_RE&v=1&r=http%3a%2f%2fpixelclouds.com%2fwp-content%2fuploads%2f2010%2f03%2fjavascript.gif&p=DevEx,5056.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=fofV6qwxLtPp__zfm0UDxetYDmJTTdfgewZ09UZJlKw&v=1&r=http%3a%2f%2fpixelclouds.com%2f%3fattachment_id%3d408&p=DevEx,5055.1",
+      "contentSize": "114385 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "pixelclouds.com/?attachment_id=408",
+      "width": 900,
+      "height": 800,
+      "thumbnail": {
+        "width": 300,
+        "height": 266
+      },
+      "imageInsightsToken": "ccid_bAD+RYVP*mid_7C8CA9EACBE61C5CF0506D775032353C7C608AF1*simid_608043593808350376",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 1,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "7C8CA9EACBE61C5CF0506D775032353C7C608AF1",
+      "accentColor": "1D72AE"
+    },
+    {
+      "name": "Cheat Sheets – JavaScript",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=xE8OvAL7X46z8Bb3TtSEQoidZJ2NddeKAKjlEjmxvQ0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d848780BA24C312C20FEEDA03455D09F1363C0CBA%26simid%3d607990430702568735&p=DevEx,5060.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.M45a40caef795e0b09b44f930ba0a1037o0&pid=Api",
+      "datePublished": "2014-04-03T12:00:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=DEp0-CTkDsJDN3JCFI3DSgb7S_BJhxj5ce-Viw62aPs&v=1&r=http%3a%2f%2fwww.cheat-sheets.org%2fsaved-copy%2fjavascript_cheat_sheet.png&p=DevEx,5062.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=t1rm-qrZfr4nGOWqMRzoqCvLZo07vIzB0Qv3k4mRBxE&v=1&r=http%3a%2f%2fcodecall.net%2f2014%2f04%2f03%2fbest-cheat-sheets-for-designers-and-programmers%2f&p=DevEx,5061.1",
+      "contentSize": "94582 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "codecall.net/2014/04/03/best-cheat-sheets-for-designers-and...",
+      "width": 763,
+      "height": 1037,
+      "thumbnail": {
+        "width": 220,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_RaQMrveV*mid_848780BA24C312C20FEEDA03455D09F1363C0CBA*simid_607990430702568735",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 1,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "848780BA24C312C20FEEDA03455D09F1363C0CBA",
+      "accentColor": "034C45"
+    },
+    {
+      "name": "Javascript Icon Level 4: html5 programming",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=wxFno2qKDc2cJodyJivcY4GhfsUaAFHs8wrP2Ejr49E&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dC2FFAA660EBF78C6729237FDD95F8AFF8ACE7DC2%26simid%3d608012704400935525&p=DevEx,5066.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.fL3aSBzMx3DBwsbkyfBpbAEsEs&pid=Api",
+      "datePublished": "2001-01-01",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=moghUnVbyUKdjhqIORrmVUrc4jgAPa2EhIz0GA5FzVM&v=1&r=http%3a%2f%2fwww.forthuntparent.com%2fAcademy%2fimages%2fjavascript.png&p=DevEx,5068.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=39JwLO6yTBJTVg8yr1h8jdOcTeyFSG5m1qkMYCX5LGc&v=1&r=http%3a%2f%2fimgarcade.com%2f1%2fjavascript-icon&p=DevEx,5067.1",
+      "contentSize": "39459 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "imgarcade.com/1/<b>javascript</b>-icon",
+      "width": 512,
+      "height": 512,
+      "thumbnail": {
+        "width": 300,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_fL3aSBzM*mid_C2FFAA660EBF78C6729237FDD95F8AFF8ACE7DC2*simid_608012704400935525",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "C2FFAA660EBF78C6729237FDD95F8AFF8ACE7DC2",
+      "accentColor": "C32008"
+    },
+    {
+      "name": "Javascript",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=raIK8X_hXMccNqF0QOvO3dqAB0QcRbeTBms2sK9Jitk&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d80BD99FBDE03EE6DB6D139783C848521E64A6AC3%26simid%3d608007331387409675&p=DevEx,5072.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.GEp2gd_Hrgk0HtqvyXnajwEsEs&pid=Api",
+      "datePublished": "2016-12-10T11:31:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=E9_JRxsPNWEmKNRNhKS1j-X2Y7v6tlgiQxOhbh37fAw&v=1&r=https%3a%2f%2ffarm9.staticflickr.com%2f8640%2f15996662264_4088cd1e53_o_d.png&p=DevEx,5074.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=R6u2xDXrdtfvdj2xboCkNinv7UNkavyo_GYAL--yjFo&v=1&r=http%3a%2f%2fblog.peer5.com%2f5-reasons-the-video-world-is-moving-to-js-based-delivery%2f&p=DevEx,5073.1",
+      "contentSize": "54687 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "blog.peer5.com/5-reasons-the-video-world-is-moving-to-js-based...",
+      "width": 512,
+      "height": 512,
+      "thumbnail": {
+        "width": 300,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_GEp2gd/H*mid_80BD99FBDE03EE6DB6D139783C848521E64A6AC3*simid_608007331387409675",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "80BD99FBDE03EE6DB6D139783C848521E64A6AC3",
+      "accentColor": "C4A207"
+    },
+    {
+      "name": "JavaScript Code: Click to view larger image.",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=oh-edhKSAD1utZv5VGZdcTXwg5EPzXBk8vRE7Q0Azrs&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d9485B63F6892AF1A4E9619B925FB8AFCCCBABE77%26simid%3d608001129464465832&p=DevEx,5078.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.M16cc28133e34cd22776301427e2ee036o0&pid=Api",
+      "datePublished": "2015-08-14T00:30:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=LFHXy2NiXB42NSykO_g3FQlSbcpzhnKFh6z7UINtjII&v=1&r=https%3a%2f%2fkuzaxecoding.files.wordpress.com%2f2015%2f08%2fjavascript.png&p=DevEx,5080.1",
+      "hostPageUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=UUq0UXDUGWop4Q4ngyMoblGbarsYAS_btbgchzDi1zU&v=1&r=https%3a%2f%2fkuzaxecoding.wordpress.com%2f2015%2f08%2f13%2ftop-programming-languages-to-learn%2f&p=DevEx,5079.1",
+      "contentSize": "144360 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://kuzaxecoding.wordpress.com/2015/08/13/top-programming...",
+      "width": 670,
+      "height": 443,
+      "thumbnail": {
+        "width": 300,
+        "height": 198
+      },
+      "imageInsightsToken": "ccid_FswoEz40*mid_9485B63F6892AF1A4E9619B925FB8AFCCCBABE77*simid_608001129464465832",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "9485B63F6892AF1A4E9619B925FB8AFCCCBABE77",
+      "accentColor": "503E8D"
+    },
+    {
+      "name": "Javascript Code Php and javascript code in",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=kE41AlPcFQvoY-JninQykoXa1LHwLp0eYzvt05wGe0k&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d735D3332FE7D1C7487D9ABE4C81426014C66F6DD%26simid%3d608011686487852377&p=DevEx,5084.1",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.Mcfb82d1f7f130a830f4b8e22c261a486o0&pid=Api",
+      "datePublished": "2001-01-01",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=v3eSpMr-5ZWzSxuajC3CdyBArXnn0DrpsacKWZnMA40&v=1&r=http%3a%2f%2fwww.php-editors.com%2farticles%2fimages%2fPHP-Editor-JavaScript.png&p=DevEx,5086.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=V0EMsg3Z5iS1VKZpVgh_O0GPHAx-ejknynbYhos-Q4Y&v=1&r=http%3a%2f%2fgalleryhip.com%2fjavascript-code.html&p=DevEx,5085.1",
+      "contentSize": "71690 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "galleryhip.com/<b>javascript</b>-code.html",
+      "width": 1170,
+      "height": 834,
+      "thumbnail": {
+        "width": 300,
+        "height": 213
+      },
+      "imageInsightsToken": "ccid_z7gtH38T*mid_735D3332FE7D1C7487D9ABE4C81426014C66F6DD*simid_608011686487852377",
+      "imageId": "735D3332FE7D1C7487D9ABE4C81426014C66F6DD",
+      "accentColor": "0048CC"
+    },
+    {
+      "name": "Debugging Javascript with Firebug - JavaScript tutorial - developer ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=41d8rl2z00yh9_EXXSPDWjuGKtJcWKC3E5_ibFHsVrg&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d9AAEDE99000E2053C08FAB754EB71DD0DCD66681%26simid%3d608037207192899236&p=DevEx,5090.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.KuXt8CLyyZ7gm5B3l_DiKQDkEs&pid=Api",
+      "datePublished": "2012-03-16T19:10:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=3GH0HFV0c1DttirghNlZbwfwlt6wL2n6_EF1VIRfHpo&v=1&r=http%3a%2f%2fwww.developerfusion.com%2fres%2fcontent%2f139949%2fcover.png&p=DevEx,5092.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=CuowTmkBn9fQjnp3kpjAwGGu01AO093m9ZgU9yYuMr4&v=1&r=http%3a%2f%2fwww.developerfusion.com%2farticle%2f139949%2fdebugging-javascript-with-firebug%2f&p=DevEx,5091.1",
+      "contentSize": "13253 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.developerfusion.com/article/139949/debugging-<b>javascript</b>-with...",
+      "width": 240,
+      "height": 315,
+      "thumbnail": {
+        "width": 228,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_KuXt8CLy*mid_9AAEDE99000E2053C08FAB754EB71DD0DCD66681*simid_608037207192899236",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 10,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "9AAEDE99000E2053C08FAB754EB71DD0DCD66681",
+      "accentColor": "B66E15"
+    },
+    {
+      "name": "The Reformat | Javascript Quiz",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=apTD40GouvFVjGafK8jL0cZrbkmxpZYQHBWAVkHBZlk&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dAC64BFCC7D0918DD5B3B06995176828877723ECA%26simid%3d608032645928586346&p=DevEx,5096.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.M4e60a68a42b5726ba930a16b8b0c2fdbo0&pid=Api",
+      "datePublished": "2016-11-27T23:28:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=E8D6OuWUDmjOD2WXsk8UL2ejnr6Ul6RLnRnTqLNrtXY&v=1&r=http%3a%2f%2fwww.thereformat.com%2fimages%2fjs4560_450.png&p=DevEx,5098.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=hChVyDJg0DB0YIcIKkyV-lFQQFEeIVNG64kzWdIvZaw&v=1&r=http%3a%2f%2fwww.thereformat.com%2fjs_qz&p=DevEx,5097.1",
+      "contentSize": "7384 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.thereformat.com/js_qz",
+      "width": 450,
+      "height": 450,
+      "thumbnail": {
+        "width": 300,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_TmCmikK1*mid_AC64BFCC7D0918DD5B3B06995176828877723ECA*simid_608032645928586346",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "AC64BFCC7D0918DD5B3B06995176828877723ECA",
+      "accentColor": "BE920D"
+    },
+    {
+      "name": "JavaScript Form Validation Main Window - JavaScript-Coder.com - Here ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ecRjUOtGGbaLeVUMvmePE5vAIJTibCfjclB3jcuZkvw&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dF4CBE70DD81D641FD3356E82535314971CB1E767%26simid%3d607996022754905731&p=DevEx,5102.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.qKnkRMWjhkvOam7wuYk6jgEsDH&pid=Api",
+      "datePublished": "2010-02-06T12:43:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=WtO94m3iRpoI_UQJNycSTR_SxBdpa-diuHY_qyXBnys&v=1&r=http%3a%2f%2fmedia.pcwin.com%2fimages%2fscreen%2fJavaScript_Form_Validator_19949.gif&p=DevEx,5104.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=TUzxQMr3C1YiuPebnMs0tGMKmJmui3CRLwc_wE-1aOs&v=1&r=http%3a%2f%2fpcwin.com%2fWeb_Authoring%2fJavaScript%2fJavaScript_Form_Validation%2fscreen.htm&p=DevEx,5103.1",
+      "contentSize": "24926 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "pcwin.com/Web_Authoring/<b>JavaScript</b>/<b>JavaScript</b>_Form_Validation...",
+      "width": 609,
+      "height": 405,
+      "thumbnail": {
+        "width": 300,
+        "height": 199
+      },
+      "imageInsightsToken": "ccid_qKnkRMWj*mid_F4CBE70DD81D641FD3356E82535314971CB1E767*simid_607996022754905731",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "F4CBE70DD81D641FD3356E82535314971CB1E767",
+      "accentColor": "C96202"
+    },
+    {
+      "name": "The ability to Pretty Print ( a.k.a. unminify ) JavaScript source",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=uGHdbHeBnCjVQYe4tVOXqRGWjqE_hDqTaoB_WM3Tv5I&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d895063A58A57E0E57497C33CE05D5B32F0A68FDE%26simid%3d608010531140210096&p=DevEx,5108.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.Ma86fcd9dbe0116e4de3ff54fb8b5893eo0&pid=Api",
+      "datePublished": "2011-08-02T12:00:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Iwy2v7OVynxfsiNXG_9Imt7OnZEBGdWWgg9vMBQ-JUU&v=1&r=http%3a%2f%2f4.bp.blogspot.com%2f-BYqkDXr0qTk%2fTjeJvZHo_uI%2fAAAAAAAAJ7w%2flgIQJmI2m1o%2fs1600%2fUpdateScript1.png&p=DevEx,5110.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=9L-KOpzefSuqDlcErMqDAfaBsxdtve_WGS-hQbp5EiE&v=1&r=http%3a%2f%2fwebdevdotnet.blogspot.com%2f2011%2f08%2f7-chrome-tips-developers-designers-may.html&p=DevEx,5109.1",
+      "contentSize": "76844 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "webdevdotnet.blogspot.com/2011/08/7-chrome-tips-developers...",
+      "width": 710,
+      "height": 415,
+      "thumbnail": {
+        "width": 300,
+        "height": 175
+      },
+      "imageInsightsToken": "ccid_qG/Nnb4B*mid_895063A58A57E0E57497C33CE05D5B32F0A68FDE*simid_608010531140210096",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "895063A58A57E0E57497C33CE05D5B32F0A68FDE",
+      "accentColor": "8F403C"
+    },
+    {
+      "name": "This javascript is obfuscated. I used firebug to get more information ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=tFq8v9Inp6fjO1xg6J_szvKngeAxmota-npmniRe_Bo&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d26D06BF5EAD0DF212B07CC4BDE8D24F309763276%26simid%3d608020108915638301&p=DevEx,5114.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.YbdcMoVJzlj3qbu-j7YyHAEsCt&pid=Api",
+      "datePublished": "2016-12-22T11:10:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=PE9GMGpvGsLJ6l5xUjviaCo-XSkg93rJobTpQ0ex57Q&v=1&r=https%3a%2f%2fisc.sans.edu%2fdiaryimages%2fa253931459f45eaaa25acce8145b9bed&p=DevEx,5116.1",
+      "hostPageUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=_Dnkz_a0oCYENyTZfvs8ECnXmv3X78d3dEUJhAAEts4&v=1&r=https%3a%2f%2fisc.sans.edu%2fforums%2fdiary%2fphishing%2bwith%2bobfuscated%2bjavascript%2bshellcode%2band%2bmalware%2f12700&p=DevEx,5115.1",
+      "contentSize": "108310 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://isc.sans.edu/forums/diary/phishing+with+obfuscated...",
+      "width": 1080,
+      "height": 625,
+      "thumbnail": {
+        "width": 300,
+        "height": 173
+      },
+      "imageInsightsToken": "ccid_YbdcMoVJ*mid_26D06BF5EAD0DF212B07CC4BDE8D24F309763276*simid_608020108915638301",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "26D06BF5EAD0DF212B07CC4BDE8D24F309763276",
+      "accentColor": "A23A29"
+    },
+    {
+      "name": "JavaScript Obfuscator - Protect your JavaScript Code",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=HvS4IpQJoklYN3cweQMaaDExd8FnDRezOXD4WYQuKjk&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dA3E01B61FE53D177EDED8F44F08F7041660D729B%26simid%3d607998161625747365&p=DevEx,5120.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.k-j3HRnOkwhK2FH4vrXpoQEsDa&pid=Api",
+      "datePublished": "2010-02-07T02:48:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ZbyHZasXNiivmttdEZ4Zc4fUlYa14oiGXDyLLuLU4O0&v=1&r=http%3a%2f%2fwww.jasob.com%2fimages%2fAppImage4Bic.gif&p=DevEx,5122.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=KTUBIyA4vzZ0V4hu1g8lOb8DHB94UBtxAgA9RDUalac&v=1&r=http%3a%2f%2fwww.jasob.com%2f&p=DevEx,5121.1",
+      "contentSize": "60371 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "www.jasob.com",
+      "width": 593,
+      "height": 431,
+      "thumbnail": {
+        "width": 300,
+        "height": 218
+      },
+      "imageInsightsToken": "ccid_k+j3HRnO*mid_A3E01B61FE53D177EDED8F44F08F7041660D729B*simid_607998161625747365",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "A3E01B61FE53D177EDED8F44F08F7041660D729B",
+      "accentColor": "B0C00B"
+    },
+    {
+      "name": "OpenCode | Javascript",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=QP6NyKQXsd-auEA30i7x719LNdpBeG66wQWrZW_xUbs&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d29041C12E154ED1E3F225D05981F0204E99360B0%26simid%3d608041192912258684&p=DevEx,5126.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.Mba83af6cd1b66fc40fe5bbc218bc90ffo0&pid=Api",
+      "datePublished": "2015-04-08T22:38:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=aUrm_J3bdeSNCb5xSOpEgeD_1zVhz_y2bygV8ENMIP4&v=1&r=http%3a%2f%2fopencode.us%2fwp-content%2fuploads%2f2013%2f10%2fjavascript_logo.png&p=DevEx,5128.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=d9CSe6oqyTWMtVfu8g8Qu2LLkH5LKNiUPbxQazUbeYk&v=1&r=http%3a%2f%2fopencode.us%2fjavascript%2f&p=DevEx,5127.1",
+      "contentSize": "17457 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "opencode.us/<b>javascript</b>",
+      "width": 800,
+      "height": 1129,
+      "thumbnail": {
+        "width": 212,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_uoOvbNG2*mid_29041C12E154ED1E3F225D05981F0204E99360B0*simid_608041192912258684",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "29041C12E154ED1E3F225D05981F0204E99360B0",
+      "accentColor": "BD930E"
+    },
+    {
+      "name": "JavaScript Editor in NuSphere PhpED",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=XigjVXH8om04fu0vhFNKj9Ld0HAHblyYp34e63h5BCY&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dE855CFFAF2A4DE06B545997BC63990E373500AD6%26simid%3d608041579462656103&p=DevEx,5132.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.KNeKBUo7KBMG6rNK7IHFlgEsDz&pid=Api",
+      "datePublished": "2016-09-05T19:14:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=D0tKLWtplslAM7MMSJyozmPOHYTaq-5Q80uNfSDOxxQ&v=1&r=http%3a%2f%2fwww.nusphere.com%2fgraphics%2fphped_60%2fjavascript_codecomplete.png&p=DevEx,5134.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=v-bQfIEZojlxVsMOfYGgRHzFBeJDkIvGBGGlYwor_nM&v=1&r=http%3a%2f%2fwww.nusphere.com%2fproducts%2fjavascript_editor_tools.htm&p=DevEx,5133.1",
+      "contentSize": "91378 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.nusphere.com/products/<b>javascript</b>_editor_tools.htm",
+      "width": 793,
+      "height": 644,
+      "thumbnail": {
+        "width": 300,
+        "height": 243
+      },
+      "imageInsightsToken": "ccid_KNeKBUo7*mid_E855CFFAF2A4DE06B545997BC63990E373500AD6*simid_608041579462656103",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "E855CFFAF2A4DE06B545997BC63990E373500AD6",
+      "accentColor": "0046CC"
+    },
+    {
+      "name": "idl4js",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=wZ_O3IKW3M23ZshNUTaH29gD2wx6UNGZx6Y6DUP2pI8&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d5DFA540175EDE8BB045EB569C2322CFBAAC1386A%26simid%3d608020899195716535&p=DevEx,5138.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.GVurvYJcU6GDLo4IyhgZOQEsDF&pid=Api",
+      "datePublished": "2016-11-15T16:12:00",
+      "contentUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=5jy1yhoEVfYd_dGAhDB-EF_9BU3_c89IksXk2N8_Z18&v=1&r=https%3a%2f%2fraw.github.com%2fBenvie%2fidl-for-javascript%2fmaster%2fss.png&p=DevEx,5140.1",
+      "hostPageUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=rKCUhuDQozO1S2n9-tmQV2J2Y2AJyfv33OI4oBDIb5M&v=1&r=https%3a%2f%2fwww.npmjs.org%2fpackage%2fidl4js&p=DevEx,5139.1",
+      "contentSize": "106492 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "https://www.npmjs.org/package/idl4js",
+      "width": 1222,
+      "height": 804,
+      "thumbnail": {
+        "width": 300,
+        "height": 197
+      },
+      "imageInsightsToken": "ccid_GVurvYJc*mid_5DFA540175EDE8BB045EB569C2322CFBAAC1386A*simid_608020899195716535",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "5DFA540175EDE8BB045EB569C2322CFBAAC1386A",
+      "accentColor": "857000"
+    },
+    {
+      "name": "html5",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=XrrrB06MkUrcneKB4R8lFkIc93MqkPlw9_1SrjkJk3Y&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d126CCAE8920B1F06486B33BD85CD210102243E28%26simid%3d607995099332348553&p=DevEx,5144.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.Mdfe91f64ce1e3100b2eb42fd28caa161o0&pid=Api",
+      "datePublished": "2017-01-23T11:36:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=zwuIocXma1VLPR-9CoIhpj1CnWdJ5D8LbfEzREaqEyA&v=1&r=http%3a%2f%2fjj09.net%2fwp-content%2fuploads%2f2014%2f10%2fMS-html5-css-js.png&p=DevEx,5146.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=COgxrRRtLG2NEEcOiu7FmwbeQqjhMtq1rHqYxhhp1c4&v=1&r=http%3a%2f%2fjj09.net%2ftag%2fhtml5%2f&p=DevEx,5145.1",
+      "contentSize": "48814 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "jj09.net/tag/html5",
+      "width": 530,
+      "height": 202,
+      "thumbnail": {
+        "width": 300,
+        "height": 114
+      },
+      "imageInsightsToken": "ccid_3+kfZM4e*mid_126CCAE8920B1F06486B33BD85CD210102243E28*simid_607995099332348553",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "126CCAE8920B1F06486B33BD85CD210102243E28",
+      "accentColor": "0182C8"
+    },
+    {
+      "name": "1st JavaScript Editor is also compatible with",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=0C2SZClsfaeu5BTxv0J5Yvgtv-6bdrjOySfhrGgpskA&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d5D8331204E4DED94F01C72195FD68BC58184860F%26simid%3d608008662828844638&p=DevEx,5150.1",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.UiAMxWLqBgasX1McUemK-gEsDu&pid=Api",
+      "datePublished": "2006-07-24T12:00:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=T9W9Um0kgfus5l0HK2hg1rSnbD78A9VkPp9mNkkIHoI&v=1&r=http%3a%2f%2fscreenshots.en.sftcdn.net%2fen%2fscrn%2f51000%2f51142%2f1st-javascript-editor-1.jpg&p=DevEx,5152.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=k4nPQ9W1L_PGCY0F3giR_JIO2CoLQ77Aip_6sQgsfIg&v=1&r=http%3a%2f%2f1st-javascript-editor.en.softonic.com%2f&p=DevEx,5151.1",
+      "contentSize": "27740 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "1st-<b>javascript</b>-editor.en.softonic.com",
+      "width": 530,
+      "height": 421,
+      "thumbnail": {
+        "width": 300,
+        "height": 238
+      },
+      "imageInsightsToken": "ccid_UiAMxWLq*mid_5D8331204E4DED94F01C72195FD68BC58184860F*simid_608008662828844638",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "5D8331204E4DED94F01C72195FD68BC58184860F",
+      "accentColor": "043CC7"
+    },
+    {
+      "name": "ScottGu&#39;s Blog - VS 2008 JavaScript Debugging",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=v7bUjnX1Iux7tSzTaB4Elx5nSYZo-GafBRrxBqO8AEI&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dA527E453B72B76EC963BD4224CCA3022BB7C67A9%26simid%3d608017158284839742&p=DevEx,5156.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.unnNGCM_q5se1tthA9EseQEsDb&pid=Api",
+      "datePublished": "2016-11-27T22:52:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=g0lRptxVcAmDl89lJXS-_ppLfp-A5C38a93w3LX7bn4&v=1&r=http%3a%2f%2fwww.scottgu.com%2fblogposts%2fdebugger%2fstep1.jpg&p=DevEx,5158.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=8r-E-oKSMcrzO9Qh0lmQEuXXJxFcr3TXmq0tCT3_Etc&v=1&r=http%3a%2f%2fweblogs.asp.net%2fscottgu%2fvs-2008-javascript-debugging&p=DevEx,5157.1",
+      "contentSize": "161375 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "weblogs.asp.net/scottgu/vs-2008-<b>javascript</b>-debugging",
+      "width": 916,
+      "height": 670,
+      "thumbnail": {
+        "width": 300,
+        "height": 219
+      },
+      "imageInsightsToken": "ccid_unnNGCM/*mid_A527E453B72B76EC963BD4224CCA3022BB7C67A9*simid_608017158284839742",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "A527E453B72B76EC963BD4224CCA3022BB7C67A9",
+      "accentColor": "083C47"
+    },
+    {
+      "name": "HTML 5, CSS, Javascript,Free source code for the taking. Over five ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=MM3z_-54SpK1lGCAXLhi8GCey8DsqLMK6ksM06RQE3U&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dC50DD6B494B638B9729EF11F8708A1024E148818%26simid%3d608027328765169608&p=DevEx,5162.1",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.M423b97b41c8b420d28e84f9b07a530eco0&pid=Api",
+      "datePublished": "2017-01-20T09:03:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=4h44k6Bjw-5akulorW7iJyTNgl9Dgz4t_czAuoXHWYM&v=1&r=http%3a%2f%2fwww.planet-source-code.com%2fvb%2f2010Redesign%2fimages%2fLangugeHomePages%2fHTML5_CSS_JavaScript.png&p=DevEx,5164.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=aoWbBuK7VKL5uHvr97NXGKGhvgLtA3gz4EyR0MMurdE&v=1&r=http%3a%2f%2fwww.planet-source-code.com%2fvb%2fdefault.asp%3flngWId%3d14&p=DevEx,5163.1",
+      "contentSize": "24027 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.planet-source-code.com/vb/default.asp?lngWId=14",
+      "width": 1024,
+      "height": 600,
+      "thumbnail": {
+        "width": 300,
+        "height": 175
+      },
+      "imageInsightsToken": "ccid_QjuXtByL*mid_C50DD6B494B638B9729EF11F8708A1024E148818*simid_608027328765169608",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "C50DD6B494B638B9729EF11F8708A1024E148818",
+      "accentColor": "0A7CC1"
+    },
+    {
+      "name": "Download Javascript Software: Antechinus JavaScript Editor, Javascript ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=QBZsnMh5_XPLDhqtb5fplnxR52ipSbqL8hNpsJQfCuw&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d11D9B50CA7B96990351858079C1C8C0E0F82E0C3%26simid%3d608013799609667340&p=DevEx,5168.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.Mda434e785bfb81eeed674fbfb048e7d6H0&pid=Api",
+      "datePublished": "2002-03-27T12:00:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=OCQN-p4E2E6hNITKuhwSN07WQkoKxwlqYs-mv1xBQuM&v=1&r=http%3a%2f%2fwww.filebuzz.com%2fsoftware_screenshot%2ffull%2f22472-1st_javascript_editor_lite_3_4.gif&p=DevEx,5170.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=O0NKXN_t02vraJiGZ_kRd929a0n9VUUuaYq88EERVs8&v=1&r=http%3a%2f%2fwww.filebuzz.com%2ffiles%2fJavascript%2f1.html&p=DevEx,5169.1",
+      "contentSize": "41392 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "www.filebuzz.com/files/<b>Javascript</b>/1.html",
+      "width": 577,
+      "height": 697,
+      "thumbnail": {
+        "width": 248,
+        "height": 300
+      },
+      "imageInsightsToken": "ccid_2kNOeFv7*mid_11D9B50CA7B96990351858079C1C8C0E0F82E0C3*simid_608013799609667340",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "11D9B50CA7B96990351858079C1C8C0E0F82E0C3",
+      "accentColor": "0643C5"
+    },
+    {
+      "name": "... search in the JavaScript code on the text typed in the input field",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ebstXer8AShzCplKo3OeCFCEpOltpLq9IQzNLqIvb4Y&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d0A8270143B6C24D47F1E52637ECFD13AB3C208DF%26simid%3d608032169187216853&p=DevEx,5174.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.mrTRX58khLSLPGWbmtZ51QEsDz&pid=Api",
+      "datePublished": "2016-11-23T03:16:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=srSKSm7yNz4AUJvdOLgTZo3JflkwrhG4KYwYiPFo7-A&v=1&r=http%3a%2f%2fwww.nusphere.com%2fgraphics%2fphped_58%2fjs_code_search.png&p=DevEx,5176.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ov6vdNrE2JjUnQbrJ1yoW9HmGwZrSC46shDc5yqW56w&v=1&r=http%3a%2f%2fwww.nusphere.com%2fproducts%2fjavascript_code_navigator.htm&p=DevEx,5175.1",
+      "contentSize": "111387 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.nusphere.com/products/<b>javascript</b>_code_navigator.htm",
+      "width": 793,
+      "height": 644,
+      "thumbnail": {
+        "width": 300,
+        "height": 243
+      },
+      "imageInsightsToken": "ccid_mrTRX58k*mid_0A8270143B6C24D47F1E52637ECFD13AB3C208DF*simid_608032169187216853",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "0A8270143B6C24D47F1E52637ECFD13AB3C208DF",
+      "accentColor": "003DCC"
+    },
+    {
+      "name": "SplineTech JavaScript Debugger 8.74: JavaScript Debugger PRO: Set ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=rjU0ZqTmcfmYQHY9J1cgJKa3CZzzuhgq7228UEsQNqw&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d21945E307FDC88885E4D77FF441CEF5D4EA0F19B%26simid%3d608010831782678291&p=DevEx,5180.1",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.MuYEuSePAD-lDiEOdRM2ZwEsDa&pid=Api",
+      "datePublished": "2012-02-29T21:39:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=VgDfxxkMi29-MY9-v78krAVdGpAeSRWwKSoanoFsnCk&v=1&r=http%3a%2f%2fwww.suggestsoft.com%2fimages%2fspline-technologies%2fsplinetech-javascript-debugger.gif&p=DevEx,5182.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=qOlIAlWHpwZPlIpO7eFZpy2hsJLmN71MSORBeWHC5XE&v=1&r=http%3a%2f%2fsuggestsoft.com%2fsoft%2fspline-technologies%2fsplinetech-javascript-debugger&p=DevEx,5181.1",
+      "contentSize": "33877 B",
+      "encodingFormat": "gif",
+      "hostPageDisplayUrl": "suggestsoft.com/soft/spline-technologies/splinetech-<b>javascript</b>...",
+      "width": 803,
+      "height": 585,
+      "thumbnail": {
+        "width": 300,
+        "height": 218
+      },
+      "imageInsightsToken": "ccid_MuYEuSeP*mid_21945E307FDC88885E4D77FF441CEF5D4EA0F19B*simid_608010831782678291",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "21945E307FDC88885E4D77FF441CEF5D4EA0F19B",
+      "accentColor": "0046CB"
+    },
+    {
+      "name": "Javascript - Limit integer to min &amp; max using one line of code",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=us354OabYQIrjheA6H5FEWgMkJmGtAUpDTR7cvdW5CQ&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dBACBA7610AB5748776F915185BCC50389ED61C8A%26simid%3d608039264487278232&p=DevEx,5186.1",
+      "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.Mf7fcccaf9d5f6d946d61ab67b3195102o0&pid=Api",
+      "datePublished": "2016-12-15T22:53:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=2JEVpk0q9E83fN9H7DKL654S0oFzUk-_Cfgt3iXRtTQ&v=1&r=http%3a%2f%2fwww.hnldesign.nl%2fwp-content%2fuploads%2f2014%2f10%2f2378867408_5d2ac25d2f_o1.jpg&p=DevEx,5188.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=QnDqe1lMsEq21R2ICQ_ouLeL2HQbJRyKnXghJsGr9JY&v=1&r=http%3a%2f%2fwww.hnldesign.nl%2fwork%2fcode%2fjavascript-limit-integer-min-max%2f&p=DevEx,5187.1",
+      "contentSize": "152573 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "www.hnldesign.nl/work/code/<b>javascript</b>-limit-integer-min-max",
+      "width": 1280,
+      "height": 960,
+      "thumbnail": {
+        "width": 300,
+        "height": 225
+      },
+      "imageInsightsToken": "ccid_9/zMr51f*mid_BACBA7610AB5748776F915185BCC50389ED61C8A*simid_608039264487278232",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 1,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "BACBA7610AB5748776F915185BCC50389ED61C8A",
+      "accentColor": "348B97"
+    },
+    {
+      "name": "Prompt box in JavaScript | ASP.NET with C#",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=nqYVuD34yW83lLpiDJZ1og072RKhtQdh65ipZtFJFhs&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d97D1F2FC0FF9A0F10530BBC5497F3631D7B3BA4C%26simid%3d608042378323493469&p=DevEx,5192.1",
+      "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.0_tdxt2F20A2OKkI0vGUBwEsCg&pid=Api",
+      "datePublished": "2012-05-20T12:00:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=R5LlIYBBHDCoON64OINr0xHhGsBHFajJ9w6BBs3AWmY&v=1&r=http%3a%2f%2f2.bp.blogspot.com%2f-E7GY4wd2-AM%2fT8XRSuRkb7I%2fAAAAAAAAAQE%2fMeF2G-mZbbo%2fs1600%2fpromptboxHTML.png&p=DevEx,5194.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=bTQXQBrjlndVMdRVnkTJ6vl0SUNKC6zo6AMYaHgomPA&v=1&r=http%3a%2f%2fmeeraacademydotnet.blogspot.com%2f2012%2f05%2fprompt-box-in-javascript.html&p=DevEx,5193.1",
+      "contentSize": "89464 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "meeraacademydotnet.blogspot.com/2012/05/prompt-box-in-<b>javascript</b>.html",
+      "width": 1366,
+      "height": 729,
+      "thumbnail": {
+        "width": 300,
+        "height": 160
+      },
+      "imageInsightsToken": "ccid_0/tdxt2F*mid_97D1F2FC0FF9A0F10530BBC5497F3631D7B3BA4C*simid_608042378323493469",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "97D1F2FC0FF9A0F10530BBC5497F3631D7B3BA4C",
+      "accentColor": "0043A6"
+    },
+    {
+      "name": "... then set breakpoints in the loaded JavaScript and debug everything",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=6ETslVgiWgy5I1_e6kNF_sfmCGSn7_Zng3Ldfv5Vsp4&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3dA527E453B72B76EC963B2FAAD315348D788A607A%26simid%3d607996551035814585&p=DevEx,5198.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Zk22KyDKhnVf_J0Lg29pTAEsDb&pid=Api",
+      "datePublished": "2016-11-27T22:52:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Hjq162byK2CnJfzJBWGf2EF9KmlcR8RqHYly_PzVdxY&v=1&r=http%3a%2f%2fwww.scottgu.com%2fblogposts%2fdebugger%2fstep5.jpg&p=DevEx,5200.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=8r-E-oKSMcrzO9Qh0lmQEuXXJxFcr3TXmq0tCT3_Etc&v=1&r=http%3a%2f%2fweblogs.asp.net%2fscottgu%2fvs-2008-javascript-debugging&p=DevEx,5199.1",
+      "contentSize": "180387 B",
+      "encodingFormat": "jpeg",
+      "hostPageDisplayUrl": "weblogs.asp.net/scottgu/vs-2008-<b>javascript</b>-debugging",
+      "width": 989,
+      "height": 722,
+      "thumbnail": {
+        "width": 300,
+        "height": 219
+      },
+      "imageInsightsToken": "ccid_Zk22KyDK*mid_A527E453B72B76EC963B2FAAD315348D788A607A*simid_607996551035814585",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "A527E453B72B76EC963B2FAAD315348D788A607A",
+      "accentColor": "2D7B9E"
+    },
+    {
+      "name": "Top 8 IDEs for JavaScript Development and Debugging - ProgrammerFish ...",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=aG8-amnwDI5KBT9WahX1icdvebD1JskYFsG6nKG9GDc&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d5EFD9591EF5FBB516914CF2D6294A88EEC211D9C%26simid%3d608004015674951373&p=DevEx,5204.1",
+      "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.rbTAC0NezOxZMbunW6_e0gEsC1&pid=Api",
+      "datePublished": "2010-12-18T09:49:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=L6jMqTGY89S1or3cAWoTETDYsBGaLy2oMsKufKzwnKg&v=1&r=http%3a%2f%2fwww.programmerfish.com%2fwp-content%2fuploads%2f2010%2f12%2fjavascript_netbeans.png&p=DevEx,5206.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=IIkLVKfawVdRqpCcHKdhldeXGTDRXcyVRn8E3UBobD0&v=1&r=http%3a%2f%2fwww.programmerfish.com%2ftop-8-ide-integrated-development-environment-for-java-script-html5-ajax%2f&p=DevEx,5205.1",
+      "contentSize": "227162 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "www.programmerfish.com/top-8-ide-integrated-development-environment...",
+      "width": 1024,
+      "height": 619,
+      "thumbnail": {
+        "width": 300,
+        "height": 181
+      },
+      "imageInsightsToken": "ccid_rbTAC0Ne*mid_5EFD9591EF5FBB516914CF2D6294A88EEC211D9C*simid_608004015674951373",
+      "imageId": "5EFD9591EF5FBB516914CF2D6294A88EEC211D9C",
+      "accentColor": "0166CA"
+    },
+    {
+      "name": "Java script date tostring 1856697795",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=49uMV1j5aTnq_Kjt072Wpz_zwJEfCIHKGbwd5oJ9r4k&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fview%3ddetailv2%26FORM%3dOIIRPO%26q%3djavascript%26id%3d225E6EB52FC1A12F3EED45F674B60CCF96F58129%26simid%3d608022273587808847&p=DevEx,5210.1",
+      "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.-Bv4RWPkvO9j4nvl_b6OSQEsDN&pid=Api",
+      "datePublished": "2016-05-11T17:56:00",
+      "contentUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=eE7ezlC7tz5Htvacjzw9hZdD-9TIVEtLCS_vHDExoI8&v=1&r=http%3a%2f%2f4.bp.blogspot.com%2f-zkk_3SMEaGk%2fT4FeZj_1B6I%2fAAAAAAAAIcw%2f1RhEozKGf98%2fs1600%2fjavascript%252Bdate%252Bextension.png&p=DevEx,5212.1",
+      "hostPageUrl": "http://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=QERH80iujIhvx09j3gWU9HbAY4SZsRH87gEq3GwGZho&v=1&r=http%3a%2f%2fvse-files-online.ru%2fJava%2bscript%2bdate%2btostring%2f&p=DevEx,5211.1",
+      "contentSize": "70991 B",
+      "encodingFormat": "png",
+      "hostPageDisplayUrl": "vse-files-online.ru/<b>Java+script</b>+date+tostring",
+      "width": 737,
+      "height": 504,
+      "thumbnail": {
+        "width": 300,
+        "height": 205
+      },
+      "imageInsightsToken": "ccid_+Bv4RWPk*mid_225E6EB52FC1A12F3EED45F674B60CCF96F58129*simid_608022273587808847",
+      "insightsSourcesSummary": {
+        "shoppingSourcesCount": 0,
+        "recipeSourcesCount": 0
+      },
+      "imageId": "225E6EB52FC1A12F3EED45F674B60CCF96F58129",
+      "accentColor": "164BB5"
+    }
+  ],
+  "queryExpansions": [
+    {
+      "text": "JavaScript Cheat Sheet",
+      "displayText": "Cheat Sheet",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=2BxPkIL2AQ-i-4iAUDYSpapTfkUqkAYlDfs9WrYn5vY&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bCheat%2bSheet%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Cheat%2bSheet%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5255.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Cheat+Sheet&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cheat+Sheet%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=JavaScript+Cheat+Sheet&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Void 0",
+      "displayText": "Void 0",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=MJ63hBjlgRIvIR8jYMOOAq_nqdbaDgYBne5GdwHUPqg&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bVoid%2b0%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Void%2b0%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5257.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Void+0&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Void+0%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Void+0&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Code",
+      "displayText": "Code",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=iBLMvnWZArXaTZYm1N8nhcp-u6vkaM9rTZFcJ2vJ0P8&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bCode%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Code%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5259.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Code&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Code%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Code&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Logo",
+      "displayText": "Logo",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=fDZkSvBrZjD0MwH0HqNFo9f5co9T6B2JU_fO9bKA5uM&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bLogo%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Logo%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5261.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Logo&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Logo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JavaScript+Logo&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Frameworks",
+      "displayText": "Frameworks",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Q-sc8Al8yfPESke9nPT4kw-2bh9cDFLgLpbAVSIkkh0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bFrameworks%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Frameworks%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5263.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Frameworks&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Frameworks%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Frameworks&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Icon",
+      "displayText": "Icon",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=8UxsGFQydaph_66US8VvD8nuqWjSReVGu0Ld9WxPbo0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bIcon%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Icon%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5265.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Icon&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Icon%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Icon&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Slider",
+      "displayText": "Slider",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=3WY0-Xo9KvR4t-AFsz-mMNvI7Y-7NqXeO7gk4_x97UY&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bSlider%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Slider%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5267.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Slider&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Slider%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Slider&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Wallpaper",
+      "displayText": "Wallpaper",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=PdHgHB2MlUtbf75KYeHRCKyFdPAUhXFkWEnpulIfT9s&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bWallpaper%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Wallpaper%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5269.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Wallpaper&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Wallpaper%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=JavaScript+Wallpaper&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Learn JavaScript",
+      "displayText": "Learn",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Rp7mHPr0KyZQ1oh3n-ced9Ev84Ms7wzK4vsCwsjl3VU&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dLearn%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Learn%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5271.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Learn+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Learn%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Learn+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Snake",
+      "displayText": "Snake",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=1T_4LfWjXft8W0WEOkBb-sV9nTiYZtNn9OaeArlpCNw&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bSnake%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Snake%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5273.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Snake&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Snake%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Snake&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "HTML5 CSS3 JavaScript",
+      "displayText": "HTML5 CSS3",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=-pS_zmh8KlvoHCjrW1B1Dpv7UEG5OYSu4jjd5g58mtI&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dHTML5%2bCSS3%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522HTML5%2bCSS3%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5275.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=HTML5+CSS3+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22HTML5+CSS3%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=HTML5+CSS3+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Enable JavaScript",
+      "displayText": "Enable",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=SuMgi5Usd8tGum4ML07lgtBrvBZ1OwrIb2X-MVzqx38&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dEnable%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Enable%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5277.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Enable+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Enable%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Enable+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Meme",
+      "displayText": "Meme",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=tC5YPR_V7MNM9FZoWikGpVAJ1rH3qlHnnIqDyjpwte8&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bMeme%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Meme%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5279.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Meme&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Meme%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Meme&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Flowchart JavaScript",
+      "displayText": "Flowchart",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=emvw61zFiMbZVXWXznxuMJdiAV9FZ9HRQV-k4HNQGi0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dFlowchart%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Flowchart%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5281.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Flowchart+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Flowchart%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Flowchart+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Book",
+      "displayText": "Book",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ztahBRrOWqm0nCPXFdtUjjhLkICvt9ELphCdZFb-Hyc&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bBook%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Book%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5283.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Book&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Book%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Book&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Dummies",
+      "displayText": "Dummies",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=QLFTG4kp6mBRbX_jXtnhugosNaHSsEVZw0EuYFXXfdU&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bDummies%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Dummies%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5285.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Dummies&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Dummies%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Dummies&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Java JavaScript",
+      "displayText": "Java",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ZpHt9-qZOwSJwlOM5nGMR7ozJB-gikZlJdHLHDB8esY&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJava%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Java%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5287.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Java+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Java%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Java+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Animation",
+      "displayText": "Animation",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=jwU0ITLipDORRoTcmMHsLnEuM9Gr41oJS9fR5_0Ay-c&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bAnimation%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Animation%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5289.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Animation&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Animation%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=JavaScript+Animation&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Jokes",
+      "displayText": "Jokes",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=5-LxB6enHTmU5mCHCBuT1S7v2oRSTR53baht4hsAbvk&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bJokes%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Jokes%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5291.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Jokes&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Jokes%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=JavaScript+Jokes&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Symbol",
+      "displayText": "Symbol",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=qHY3s02P0PHIbqqPzoq2Nd5LfNMRlEwkFSsTtDBEdHw&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bSymbol%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Symbol%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5293.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Symbol&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Symbol%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=JavaScript+Symbol&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Slideshow",
+      "displayText": "Slideshow",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=BTK1cYIyahH446Irpc4w5PJuiBmtMLVycwAEipl6JGk&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bSlideshow%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Slideshow%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5295.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Slideshow&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Slideshow%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Slideshow&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Widgets",
+      "displayText": "Widgets",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=IPIzjuoSdbIwQZ8ipfkIwVWfaFxln-vl81JhLKMoX-Q&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bWidgets%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Widgets%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5297.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Widgets&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Widgets%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JavaScript+Widgets&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Form Validation",
+      "displayText": "Form Validation",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=YRGqv-GPlig2l4OhvOmTceK5A9KsfnEO9DsBk_g1xN0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bForm%2bValidation%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Form%2bValidation%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5299.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Form+Validation&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Form+Validation%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JavaScript+Form+Validation&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Pie-Chart",
+      "displayText": "Pie-Chart",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=6jOT8yrpVBgSWl8ksej7GpeunrsZGhqSJJU8H9QSHjg&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bPie-Chart%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Pie-Chart%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5301.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Pie-Chart&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pie-Chart%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Pie-Chart&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Install JavaScript",
+      "displayText": "Install",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=uAecuUuoVdX4oGoMQdiZCKsmRCKTFj3irrqQDmeGj2o&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dInstall%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Install%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5303.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Install+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Install%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Install+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Allow JavaScript",
+      "displayText": "Allow",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=BbosFukVc9aDOKktNT2w1gfSMq3Xgwf6rmBkoxZx1QU&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dAllow%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Allow%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5305.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Allow+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Allow%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Allow+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Color Wheel",
+      "displayText": "Color Wheel",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=PLRPddIETxViyrqa_iPk2_TUGNPc5TVq5z2D4gSiKmI&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bColor%2bWheel%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Color%2bWheel%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5307.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Color+Wheel&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Color+Wheel%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Color+Wheel&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript vs jQuery",
+      "displayText": "vs jQuery",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=e36RS5jx1pzYKa0KY5c51uQw218SDUInhc22qtNbG4Q&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bvs%2bjQuery%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522vs%2bjQuery%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5309.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+vs+jQuery&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22vs+jQuery%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+vs+jQuery&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Disabled",
+      "displayText": "Disabled",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=i7xObBaohFIpqS-FgxbysOSh0I2J1hqpw8F7s3NW-ho&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bDisabled%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Disabled%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5311.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Disabled&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Disabled%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=JavaScript+Disabled&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Simple JavaScript",
+      "displayText": "Simple",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=HEstzPZ7_oXk6dxH1sO3NRjPPGLNT-Hn5R4NTl4L4co&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dSimple%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Simple%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5313.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Simple+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Simple%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Simple+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Khan Academy JavaScript",
+      "displayText": "Khan Academy",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=0-qHRiQfKKD6WZRfS6ff-5eImli-i7tQtGOVKDjXO1E&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dKhan%2bAcademy%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Khan%2bAcademy%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5315.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Khan+Academy+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Khan+Academy%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Khan+Academy+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Tiles",
+      "displayText": "Tiles",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=bGKIxkuMLKmvTIXasV4oW4R2AYF4YcByye-G_rqSRt0&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bTiles%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Tiles%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5317.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Tiles&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Tiles%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JavaScript+Tiles&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Keep Calm JavaScript",
+      "displayText": "Keep Calm",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=fBphim_hTULa4nMTdIDc2w-p1fIKvK6hK-t7WiY1Fhs&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dKeep%2bCalm%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Keep%2bCalm%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5319.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Keep+Calm+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Keep+Calm%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Keep+Calm+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "Minize JavaScript",
+      "displayText": "Minize",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=YmnA68MY4YblsIy6wEmYp1sbW76VpJpZxemg_WKuJgQ&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dMinize%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Minize%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5321.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Minize+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Minize%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Minize+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Schock",
+      "displayText": "Schock",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=XVsEjI0Crxcd9g1Eh6h2pET1H9KoxU00G0Ejmqe9YJI&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bSchock%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Schock%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5323.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Schock&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Schock%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Schock&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "How to Turn JavaScript",
+      "displayText": "How to Turn",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=pBvi67KyLxmzkxQI5hTmy_nHI_KZ1bPNtQpzjGQgrso&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dHow%2bto%2bTurn%2bJavaScript%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522How%2bto%2bTurn%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5325.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=How+to+Turn+JavaScript&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22How+to+Turn%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=How+to+Turn+JavaScript&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Minecraft",
+      "displayText": "Minecraft",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=nzVs-smNPsfFfdP4I3TmZCTsQqe0h1OL6oCVId1OEmI&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bMinecraft%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Minecraft%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5327.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Minecraft&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Minecraft%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=JavaScript+Minecraft&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Good Parts",
+      "displayText": "Good Parts",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=4AQrhdHcHz2Yr8YvkVa-bSHAtdyQTwSkn0uxcXEp6-4&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bGood%2bParts%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Good%2bParts%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5329.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Good+Parts&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Good+Parts%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JavaScript+Good+Parts&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript 3D",
+      "displayText": "3D",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=Ieqio6Su8cuZjAQ66vqT5b91VEqm9TemUMIsFRZdzCo&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2b3D%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%25223D%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5331.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+3D&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%223D%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JavaScript+3D&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    },
+    {
+      "text": "JavaScript Log",
+      "displayText": "Log",
+      "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=ihi-TGfa5FFSWA81ztmPV_sk2A4HrGL5YvdS7UBihrc&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJavaScript%2bLog%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Log%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRPATC&p=DevEx,5333.1",
+      "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JavaScript+Log&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Log%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+      "thumbnail": {
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=JavaScript+Log&pid=Api&mkt=en-US&adlt=moderate&t=1"
+      }
+    }
+  ],
+  "nextOffsetAddCount": 15,
+  "pivotSuggestions": [
+    {
+      "pivot": "javascript",
+      "suggestions": [
+        {
+          "text": "HTML",
+          "displayText": "HTML",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=GFlMD6Q2zbebcStYFwNVjfMQ0lVetzsu-qr2seWS1eM&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dHTML%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522HTML%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5340.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=HTML&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22HTML%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?q=HTML&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "PHP",
+          "displayText": "PHP",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=uPM18Ndki1Lzh44R-0jYj8I1WvjNatm3lAgorEUmRts&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dPHP%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522PHP%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5342.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=PHP&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22PHP%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?q=PHP&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "JSON",
+          "displayText": "JSON",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=_R47J-7Iu6ZahnA18pi9syOHYMTXAFP2nfPC5gotc3A&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dJSON%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522JSON%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5344.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=JSON&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22JSON%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=JSON&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "SQL",
+          "displayText": "SQL",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=VM5DNYWF-otBXcrqL_mhiwhPgSJvS_z9Q1MN5mFeNEg&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dSQL%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522SQL%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5346.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=SQL&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22SQL%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?q=SQL&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "XML",
+          "displayText": "XML",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=AZMdinLNvzU79hXm7h4E8toEOesVctPfJUGJSmWa0Mc&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dXML%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522XML%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5348.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=XML&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22XML%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?q=XML&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Basic",
+          "displayText": "Basic",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=oXAQDiqsLm9KsEbhuCPU5cbMLDpqxiiVq_4g8ql5vec&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dBasic%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Basic%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5350.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Basic&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Basic%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Basic&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "R Programming Language",
+          "displayText": "R",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=JW1FmfDsHVXvbkjfZbdJ0ncgmFRY2X6mxDH_RFn2U0Q&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dR%2bProgramming%2bLanguage%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522R%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5352.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=R+Programming+Language&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22R%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?q=R+Programming+Language&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        },
+        {
+          "text": "Ajax Programming",
+          "displayText": "Ajax",
+          "webSearchUrl": "https://www.bing.com/cr?IG=E73291583BFD4372A7AC89A90ACB769E&CID=064D0D5F55246E960269077A54156F50&rd=1&h=qIc3jgFNWak_XQfPHK2j1LXsFwoVtqZ1S3qnfPhJZK4&v=1&r=https%3a%2f%2fwww.bing.com%2fimages%2fsearch%3fq%3dAjax%2bProgramming%26tq%3d%257b%2522pq%2522%253a%2522javascript%2522%252c%2522qs%2522%253a%255b%257b%2522cv%2522%253a%2522javascript%2522%252c%2522pv%2522%253a%2522javascript%2522%252c%2522hps%2522%253atrue%252c%2522iqp%2522%253afalse%257d%252c%257b%2522cv%2522%253a%2522Ajax%2522%252c%2522pv%2522%253a%2522%2522%252c%2522hps%2522%253afalse%252c%2522iqp%2522%253atrue%257d%255d%257d%26FORM%3dIRQBPS&p=DevEx,5354.1",
+          "searchLink": "https://api.cognitive.microsoft.com/api/v5/images/search?q=Ajax+Programming&tq=%7b%22pq%22%3a%22javascript%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22javascript%22%2c%22pv%22%3a%22javascript%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Ajax%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+          "thumbnail": {
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Ajax+Programming&pid=Api&mkt=en-US&adlt=moderate&t=1"
+          }
+        }
+      ]
+    }
+  ],
+  "displayShoppingSourcesBadges": false,
+  "displayRecipeSourcesBadges": true
+}
+
+                                        
