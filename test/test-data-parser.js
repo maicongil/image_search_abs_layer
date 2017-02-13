@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var DataParser = require("../lib/DataParser.js");
+var DataParser = require("../lib/data-parser.js");
 var data = require("../mock_data.json");
 chai.use(require('chai-things'));
 

@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var BingSearch = require("../lib/BingSearch.js");
+var BingSearch = require("../lib/bing-search.js");
 
 chai.use(require('chai-things'));
 
