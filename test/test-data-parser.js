@@ -20,7 +20,7 @@ describe('DataParser', function(){
 
     it('should return an array with the same length as data', function(){
       var result = DataParser.parseBingApi(data).length;
-      var expected = data["value"].length
+      var expected = data.value.length;
       expect(result).equal(expected);
     });
 

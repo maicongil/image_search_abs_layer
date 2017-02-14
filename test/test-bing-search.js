@@ -10,7 +10,7 @@ describe('BingSearch', function(){
   describe('#searchImages()', function(){
     
     it('should throw error', function(){
-      expect(function(){BingSearch.searchImages()}).to.throw('The search parameter was not informed.');
+      expect(function(){BingSearch.searchImages();}).to.throw('The search parameter was not informed.');
     });
 
     it('should return fetched data', function(){
